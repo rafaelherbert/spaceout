@@ -1,6 +1,6 @@
 # Landing page SpaceOut
 
-> Uma landing page simples e minimalista feita em React com um carousel de imagens funcional.
+> Uma landing page simples e minimalista feita em 2 horas em React com um carousel de imagens funcional.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
